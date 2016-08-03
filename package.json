@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "reify": "^0.3.6",
-    "small-node-collections": "*"
+    "small-node-collections": "^1.0.0"
   },
   "devDependencies": {}
 }
