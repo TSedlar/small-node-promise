@@ -1,6 +1,8 @@
 # small-node-promise
 [![](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![](https://travis-ci.org/TSedlar/small-node-promise.svg)](https://travis-ci.org/TSedlar/small-node-promise)
+[![](https://badge.fury.io/js/small-node-promise.svg)](https://www.npmjs.com/package/small-node-promise)
+![](https://david-dm.org/TSedlar/small-node-promise.svg)
 
 #### A small library for basic built-in promise utility functions
 
