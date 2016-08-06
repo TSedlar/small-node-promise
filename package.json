@@ -7,7 +7,17 @@
     "url": "git://github.com/TSedlar/small-node-promise.git"
   },
   "main": "./lib/app.js",
-  "keywords": [],
+  "keywords": [
+    "promises",
+    "retry",
+    "resolveMap",
+    "forceResolveMap",
+    "force",
+    "resolve",
+    "map",
+    "basic",
+    "built-in"
+  ],
   "author": "Tyler Sedlar",
   "license": "MIT",
   "dependencies": {
