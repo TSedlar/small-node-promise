@@ -1,6 +1,6 @@
 {
   "name": "small-node-promise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small library for basic built-in promise utility functions",
   "repository": {
     "type": "git",
@@ -13,6 +13,5 @@
   "dependencies": {
     "reify": "^0.3.6",
     "small-node-collections": "^1.0.1"
-  },
-  "devDependencies": {}
+  }
 }
